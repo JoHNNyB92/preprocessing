@@ -1,8 +1,9 @@
 # Preprocessing
 
 The following page in wikipedia is the source we are going to use
-• Artificial neural network:
-https://en.wikipedia.org/wiki/Artificial_neural_network.
+
+• Artificial neural network:https://en.wikipedia.org/wiki/Artificial_neural_network.
+
 We pre-process the Web page, extract its text and answer the following questions:
 1. What is the word count and vocabulary of this Web page?
 2. How many sentences are contained in the page?
@@ -14,7 +15,9 @@ stopwords, using the nltk.corpus.stopwords('english') list)
 
 
 Bonus:
+
 Provide a Comma Separated File (CSV) with the following requirements:
+
 • It contains a single row, with 3 cells.
 o The first cell must contain the given name of the student in Greek.
 o The second cell must contain the surname of the student in Greek.
