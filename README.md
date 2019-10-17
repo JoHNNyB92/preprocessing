@@ -19,11 +19,16 @@ stopwords, using the nltk.corpus.stopwords('english') list)
 Provide a Comma Separated File (CSV) with the following requirements:
 
 • It contains a single row, with 3 cells.
+
 o The first cell must contain the given name of the student in Greek.
+
 o The second cell must contain the surname of the student in Greek.
+
 o The third cell must contain the string “Μεταπτυχιακό στην Επιστήμη Δεδομένων”, including
 quotes.
+
 • The provided file must open in Microsoft Excel, only with a single click from the Windows File explorer,
 without any further action required by the user. The target operating system is Windows 10, with
 Greek localisation (Appearance and Local settings).
+
 • The provided file must be encoded in UTF-8.
